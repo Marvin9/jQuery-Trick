@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+}
+ul{
+	display: block;
+}
+ul li {
+	margin: 2em;
+	position: relative;
+	list-style: none;
+	font-family: Arial;
+	font-size: 25pt;
+	transition: all 0.5s linear;
+}
