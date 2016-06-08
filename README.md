@@ -1,2 +1,4 @@
 # jQuery-Trick
-This jQuery trick will be useful to your website
+This is just basic concept.
+You can add more functions in it :)
+
